@@ -1,6 +1,6 @@
 This is the repository for the code used in my Master thesis "Predicting the Norwegian Elspot Markets: Evaluation of Methods and Price-drivers".
-In this repository are the Jupyter Notebooks used in the collection and preprocessing of data from three different sources (Nord Pool, Met, yahoo-finance), and in the training of three different models (ARIMA, XGBoost, LSTM).
-The data itself is not shared as it is propriotary to the Nord Pool Group.
+In this repository are the Jupyter Notebooks used in the collection and preprocessing of data from three different sources (Nord Pool, Met, yahoo-finance), and in the training and evaluation of three different models (ARIMA, XGBoost, LSTM).
+The data itself is not made publicly aviliable.
 
 
-![Pipeline](https://github.com/markuswiikjensen/EPF_nordpool/assets/105151851/e22fb625-c8e7-4f89-84e0-472568252306)
+![Pipeline](https://github.com/markuswiikjensen/EPF_nordpool/assets/105151851/e22fb625-c8e7-4f89-84e0-472568252306.png)
