@@ -2,5 +2,6 @@ This is the repository for the code used in my Master thesis "Predicting the Nor
 In this repository are the Jupyter Notebooks used in the collection and preprocessing of data from three different sources (Nord Pool, Met, yahoo-finance), and in the training of three different models (ARIMA, XGBoost, LSTM).
 The data itself is not shared as it is propriotary to the Nord Pool Group.
 
-![Image Alt Text](./images/Screenshot 2023-06-13 at 12.39.40.png)
+
+![alt text](https://github.com/markuswiikjensen/EPF_nordpool/images/Screenshot 2023-06-13 at 12.39.40.png.jpg?raw=true)
 
