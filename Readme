@@ -1,0 +1,3 @@
+This is the repository for the code used in my Master thesis "Predicting the Norwegian Elspot Markets: Evaluation of Methods and Price-drivers".
+In this repository are the Jupyter Notebooks used in the collection and preprocessing of data from three different sources (Nord Pool, Met, yahoo-finance), and in the training of three different models (ARIMA, XGBoost, LSTM).
+The data itself is not shared as it is propriotary to the Nord Pool Group.
